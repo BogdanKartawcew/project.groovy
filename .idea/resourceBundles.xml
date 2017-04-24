@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/test/resources/common_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/common_pl.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/common_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/deposit_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/deposit_pl.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/deposit_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/exit_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/exit_pl.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/exit_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/info_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/info_pl.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/info_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/login_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/login_pl.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/login_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/withdraw_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/withdraw_pl.properties" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/withdraw_ru.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/test/resources/withdraw_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/withdraw_pl.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/withdraw_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/withdraw_ua.properties" />
+      <base-name>withdraw</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/test/resources/login_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/login_pl.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/login_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/login_ua.properties" />
+      <base-name>login</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/test/resources/info_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/info_pl.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/info_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/info_ua.properties" />
+      <base-name>info</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/test/resources/exit_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/exit_pl.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/exit_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/exit_ua.properties" />
+      <base-name>exit</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/test/resources/deposit_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/deposit_pl.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/deposit_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/deposit_ua.properties" />
+      <base-name>deposit</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/test/resources/common_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/common_pl.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/common_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/test/resources/common_ua.properties" />
+      <base-name>common</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
